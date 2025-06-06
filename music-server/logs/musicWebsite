@@ -1,0 +1,12 @@
+2025-03-07 10:51:22 INFO [com.example.yin.YinMusicApplication]: Starting YinMusicApplication using Java 1.8.0_341 on lijishuo with PID 19684 (D:\OneDrive\×ÀÃæ\music-website-master\music-server\target\classes started by Administrator in D:\OneDrive\×ÀÃæ\music-website-master\music-server)
+2025-03-07 10:51:22 INFO [com.example.yin.YinMusicApplication]: The following profiles are active: dev
+2025-03-07 10:51:22 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-03-07 10:51:22 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-03-07 10:51:23 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-07 10:51:23 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-07 10:51:23 INFO [org.springframework.data.repository.config.RepositoryConfigurationDelegate]: Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2025-03-07 10:51:26 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2025-03-07 10:51:26 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 3860 ms
+2025-03-07 10:51:27 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2025-03-07 10:51:27 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2025-03-07 10:51:27 INFO [com.example.yin.YinMusicApplication]: Started YinMusicApplication in 4.708 seconds (JVM running for 5.034)
